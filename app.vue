@@ -13,8 +13,8 @@
 <style>
 @font-face {
   font-family: "Helvetica Neue 97";
-  src: url("../assets/fonts/helvetica_neue_97_black_condensed-webfont.woff2") format("woff2"),
-    url("../assets/fonts/helvetica_neue_97_black_condensed-webfont.woff") format("woff");
+  src: url("~/assets/fonts/helvetica_neue_97_black_condensed-webfont.woff2") format("woff2"),
+    url("~/assets/fonts/helvetica_neue_97_black_condensed-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
