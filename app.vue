@@ -15,7 +15,7 @@
 <script setup>
 useHead({
   title: "Gamers on PlayStation",
-  viewport: "width=device-width, initial-scale=1, maximum-scale=1",
+  viewport: "width=device-width, initial-scale=1",
   charset: "utf-8",
   meta: [{ name: "description", content: "GoP landing page" }],
 });
@@ -52,7 +52,7 @@ html {
 
 .link {
   font-family: var(--font-family);
-  font-size: 5rem;
+  font-size: 4rem;
   color: cornsilk;
 }
 </style>
