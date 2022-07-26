@@ -1,0 +1,3 @@
+Sitemap: https://www.gop-turismo.com/sitemap.xml
+
+User-agent: *

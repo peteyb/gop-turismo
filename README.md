@@ -1,3 +1,3 @@
 # gop-turismo
 
-Gamers on Playstation
+Gamers on PlayStation

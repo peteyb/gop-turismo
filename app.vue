@@ -1,14 +1,25 @@
 <template>
-  <div class="centered">
-    <a
-      href="https://1drv.ms/x/s!AlxI-aPw3gA9gagKvHJW0ZRW3O0_YA?e=fL4wgx"
-      target="_blank"
-      rel="noopener"
-      class="link"
-      >Gamers on Playstation</a
-    >
-  </div>
+  <Html lang="en-gb">
+    <div class="centered">
+      <a
+        href="https://1drv.ms/x/s!AlxI-aPw3gA9gagKvHJW0ZRW3O0_YA?e=fL4wgx"
+        target="_blank"
+        rel="noopener"
+        class="link"
+        >Gamers on PlayStation</a
+      >
+    </div>
+  </Html>
 </template>
+
+<script setup>
+useHead({
+  title: "Gamers on PlayStation",
+  viewport: "width=device-width, initial-scale=1, maximum-scale=1",
+  charset: "utf-8",
+  meta: [{ name: "description", content: "GoP landing page" }],
+});
+</script>
 
 <style>
 @font-face {
